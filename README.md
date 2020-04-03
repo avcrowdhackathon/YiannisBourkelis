@@ -1,6 +1,8 @@
 ### Andama Remote Desktop
 Ο πηγαίος κώδικας βρίσκεται εδώ: [https://github.com/avcrowdhackathon/Andama-Remote-Desktop/tree/develop](https://github.com/avcrowdhackathon/Andama-Remote-Desktop/tree/develop "https://github.com/avcrowdhackathon/Andama-Remote-Desktop/tree/develop")
 
+![Screenshot of Andama](https://github.com/avcrowdhackathon/YiannisBourkelis/blob/master/andama-screenshot-gr.png)
+
 **Περιγραφή**
 
 Το Andama Remote Desktop είναι μία εφαρμογή απομακρυσμένης σύνδεσης υπολογιστών ανοιχτού κώδικα, που δίνει τη δυνατότητα σύνδεσης σε ένα απομακρυσμένο υπολογιστή ώστε να γίνεται χρήση του πληκτρολογίου και του ποντικιού σαν να βρίσκετεται ο χρήστης μπροστά στον απομακρυσμένο υπολογιστή. 
